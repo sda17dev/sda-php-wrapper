@@ -1,0 +1,17 @@
+{
+    "name": "sda17dev/",
+    "type": "archive",
+    "description": "Provides access to the Seoul Digital Archive API.",
+    "authors": [
+        {
+            "name": "sda17dev",
+            "email": "sda17dev@gmail.com",
+            "homepage": ""
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "TFN\\": ""
+        }
+    }
+}
